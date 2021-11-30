@@ -19,7 +19,6 @@ h2 {
 }
 
 #contactinfo {
-    /* padding: 10px; */
     margin: -100px 315px;
     display: flex;
     flex-wrap: wrap;
@@ -46,7 +45,6 @@ h2 {
 }
 
 #contactme {
-    /* padding: 25px; */
     margin: -10px;
 }
 
